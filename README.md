@@ -8,7 +8,7 @@ css
   *style 
   *make reset 
 javascript 
-   *random number 
+   *random number (math.floor and math.random) 
    *varibals 
    *function 
    
