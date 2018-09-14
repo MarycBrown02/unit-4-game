@@ -1,10 +1,17 @@
 # unit-4-game
 
-html 
-add links to javascript, css, and reset
+html
+  *need buttons(use boot strap) 
+  *add imiges 
+  *add links to javascript, css, and reset
 css 
-  make reset 
+  *style 
+  *make reset 
 javascript 
+   *random number 
+   *varibals 
+   *function 
+   
    
 
 
@@ -18,4 +25,3 @@ the game
      try to add up to the gient numbet 
 
      the game will reset with all new numbers 
-     
